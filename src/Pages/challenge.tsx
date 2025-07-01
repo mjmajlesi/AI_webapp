@@ -1,8 +1,10 @@
 import React from 'react'
+import Navbar from '../Components/Navbar'
 
 function challenge() {
   return (
-    <div>challenge</div>
+    <div>
+    </div>
   )
 }
 
